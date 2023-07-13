@@ -14,7 +14,7 @@ header{
 }
 
 .timer{
-    display: grid;
+    display: gri
     grid-auto-flow: column;
     margin-top: 20px;
 }
